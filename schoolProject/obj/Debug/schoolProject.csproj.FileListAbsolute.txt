@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\schoolProject\bin\Debug\schoolProject.exe.config
+C:\Users\User\source\repos\schoolProject\bin\Debug\schoolProject.exe
+C:\Users\User\source\repos\schoolProject\bin\Debug\schoolProject.pdb
+C:\Users\User\source\repos\schoolProject\obj\Debug\schoolProject.csprojAssemblyReference.cache
+C:\Users\User\source\repos\schoolProject\obj\Debug\schoolProject.Form1.resources
+C:\Users\User\source\repos\schoolProject\obj\Debug\schoolProject.Properties.Resources.resources
+C:\Users\User\source\repos\schoolProject\obj\Debug\schoolProject.csproj.GenerateResource.cache
+C:\Users\User\source\repos\schoolProject\obj\Debug\schoolProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\schoolProject\obj\Debug\schoolProject.exe
+C:\Users\User\source\repos\schoolProject\obj\Debug\schoolProject.pdb
+C:\Users\User\source\repos\schoolProject\obj\Debug\schoolProject.CS.resources
+C:\Users\User\source\repos\schoolProject\obj\Debug\schoolProject.login.resources
